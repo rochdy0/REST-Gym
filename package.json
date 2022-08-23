@@ -1,0 +1,16 @@
+{
+  "name": "rest-gym",
+  "version": "1.0.0",
+  "description": "A REST API example",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js"
+  },
+  "author": "rochdy0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "prettier": "^2.7.1",
+    "sqlite3": "^5.0.11"
+  }
+}
